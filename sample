@@ -1,0 +1,4 @@
+echo " welocome to jenkins"
+hostname
+pwd 
+sleep 10
